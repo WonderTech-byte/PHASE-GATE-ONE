@@ -22,7 +22,6 @@ public class ArithmeticApp{
     System.out.println("Solve Mathematical problems\nOn differences of two Numbers\n");
     while(trial != range){
     
-     
         firstNumber = random.nextInt(15, 30);
         secondNumber = random.nextInt(2,4);
         
